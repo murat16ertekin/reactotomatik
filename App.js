@@ -31,7 +31,7 @@ codePush.sync({
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to React Native 1!</Text>
+        <Text style={styles.welcome}>Welcome to React Native 2!</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Button title='Güncelle' onPress={()=>{this.guncelle()}} />
       </View>
